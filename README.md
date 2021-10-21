@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Nehekit
 - 🌱 I’m currently learning HTML & CSS
-- Developer for www.fivemcustoms.com 
+- 🔧 Developer for www.fivemcustoms.com 
